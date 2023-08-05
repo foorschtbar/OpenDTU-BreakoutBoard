@@ -7,6 +7,10 @@ To read Hoymiles inverters there is a nice project called [openDTU](https://gith
 <img src="./.github/openDTU_REV2.1_back.png" width="480">
 </p>
 
+### PCB Ordering
+
+:point_up: I still have a few PCBs left. If you are interested please contact me. Contact details can be found here: https://github.com/foorschtbar
+
 ## Case
 
 You find the case on Printables: [Case for openDTU/ahoy Breakout Board (ESP32 and NRF24L01)](https://www.printables.com/model/421083-case-for-opendtuahoy-breakout-board-esp32-and-nrf2)
