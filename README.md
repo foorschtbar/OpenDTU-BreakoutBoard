@@ -9,7 +9,9 @@ To read Hoymiles inverters there is a nice project called [openDTU](https://gith
 
 ### PCB Ordering
 
-:point_up: I still have a few PCBs left. If you are interested please contact me. Contact details can be found here: https://github.com/foorschtbar
+:point_up: I still have a few PCBs left. If you are interested please contact me. Contact details can be found here: https://github.com/foorschtbar or visit my Tindie store:
+
+<a href="https://www.tindie.com/stores/foorschtbar/?ref=offsite_badges&utm_source=sellers_foorschtbar&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
 
 ## Case
 
